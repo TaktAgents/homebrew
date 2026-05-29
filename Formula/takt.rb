@@ -5,7 +5,6 @@ class Takt < Formula
   sha256 "d611dd56489f35e873ad5299b5de45b2f09e0fad5645a47bfcf81770275af840"
   license "MIT"
 
-  depends_on "bun"
 
   def install
     # Установка исходных файлов в libexec (Homebrew standard for private app code)
