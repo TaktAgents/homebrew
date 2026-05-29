@@ -2,7 +2,7 @@ class Takt < Formula
   desc "CLI client for Takt — schedule and monitor AI agents"
   homepage "https://github.com/TaktAgents/takt-cli"
   url "https://github.com/TaktAgents/takt/releases/download/v1.0.0/takt-cli.tar.gz"
-  sha256 "3f7bc287081218a7b192b0081f6d023673c9bce0bb02e5672718b3d9a15ff1a1"
+  sha256 "d611dd56489f35e873ad5299b5de45b2f09e0fad5645a47bfcf81770275af840"
   license "MIT"
 
   depends_on "bun"

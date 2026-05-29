@@ -1,6 +1,6 @@
 cask "takt" do
   version "1.0.0"
-  sha256 "fe9bd02a30290a16388de1e557b3f8b4635d8e42c684512498848fb2c9d0a2aa"
+  sha256 "2b48cd3beb381ec8ec0e2e20b48972e3e23aed18440252c7ab48b251f78a43d6"
 
   url "https://github.com/TaktAgents/takt/releases/download/v#{version}/Takt.zip"
   name "Takt"
